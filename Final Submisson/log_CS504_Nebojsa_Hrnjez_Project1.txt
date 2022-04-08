@@ -1,0 +1,147 @@
+mysql> source CS504_Nebojsa_Hrnjez_Project1_final_uncommented.sql;
+Query OK, 15 rows affected (3.15 sec)
+
+Query OK, 1 row affected (0.13 sec)
+
+Database changed
+Query OK, 0 rows affected, 2 warnings (0.21 sec)
+
+Query OK, 0 rows affected (0.19 sec)
+
+Query OK, 0 rows affected (0.20 sec)
+
+Query OK, 0 rows affected, 1 warning (0.18 sec)
+
+Query OK, 0 rows affected (0.23 sec)
+
+Query OK, 0 rows affected (0.18 sec)
+
+Query OK, 0 rows affected (0.56 sec)
+
+Query OK, 0 rows affected (0.18 sec)
+
+Query OK, 0 rows affected (0.69 sec)
+
+Query OK, 0 rows affected (0.24 sec)
+
+Query OK, 0 rows affected (0.17 sec)
+
+Query OK, 0 rows affected (0.18 sec)
+
+Query OK, 0 rows affected (0.19 sec)
+
+Query OK, 0 rows affected (0.20 sec)
+
+Query OK, 0 rows affected (0.16 sec)
+
+Query OK, 1 row affected (0.02 sec)
+
+Query OK, 1 row affected (0.02 sec)
+
+Query OK, 1 row affected (0.03 sec)
+
+Query OK, 35 rows affected (0.04 sec)
+Records: 35  Duplicates: 0  Warnings: 0
+
+Query OK, 12 rows affected (0.05 sec)
+Records: 12  Duplicates: 0  Warnings: 0
+
+Query OK, 9 rows affected (0.02 sec)
+Records: 9  Duplicates: 0  Warnings: 0
+
+Query OK, 7 rows affected (0.03 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+Query OK, 12 rows affected (0.10 sec)
+Records: 12  Duplicates: 0  Warnings: 0
+
+Query OK, 3 rows affected (0.03 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+Query OK, 1 row affected (0.03 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+Query OK, 1 row affected (0.03 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+Query OK, 1 row affected (0.02 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+Query OK, 7 rows affected (0.03 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+Query OK, 2 rows affected (0.04 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+Query OK, 6 rows affected (0.03 sec)
+Records: 6  Duplicates: 0  Warnings: 0
+
+Query OK, 2 rows affected (0.03 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+Query OK, 4 rows affected (0.03 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+Query OK, 7 rows affected (0.03 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+Query OK, 5 rows affected (0.03 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+Query OK, 7 rows affected (0.03 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+Query OK, 12 rows affected (0.03 sec)
+Records: 12  Duplicates: 0  Warnings: 0
+
++------------+
+| Date_Hired |
++------------+
+| 2006-10-24 |
+| 2005-03-01 |
++------------+
+2 rows in set (0.00 sec)
+
++----------+
+| Zip_Code |
++----------+
+|    23857 |
+|    24161 |
++----------+
+2 rows in set (0.00 sec)
+
++------------------+
+| Name             |
++------------------+
+| Alan Silvers     |
+| Nadene Trojan    |
+| Duane Taylor     |
+| Alix Ferguson    |
++------------------+
+4 rows in set (0.00 sec)
+
++----------+
+| count(*) |
++----------+
+|        4 |
++----------+
+1 row in set (0.00 sec)
+
++-----------+-----------+
+| id        | Job_Class |
++-----------+-----------+
+| 123454321 | Admin     |
+| 246818642 | Janitor   |
++-----------+-----------+
+2 rows in set (0.01 sec)
+
++------------+
+| Pager_no   |
++------------+
+| 2863162907 |
+| 9925409387 |
+| 7436142749 |
++------------+
+3 rows in set (0.00 sec)
+
+mysql> exit
